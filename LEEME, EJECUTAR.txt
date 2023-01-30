@@ -1,0 +1,3 @@
+ejecutar en el navegador:
+
+http://localhost/php_crud_mysql/
